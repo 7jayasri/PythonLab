@@ -1,5 +1,5 @@
 # FARENHEIT TO CELSIUS
-""" print("Enter temperature in farenheit:")
+print("Enter temperature in farenheit:")
 f=int(input())
 c=5*(f-32)/9
 print("The temperarture in celsius is",c) """
@@ -40,7 +40,7 @@ print("The speed of the vehicle is:",d/t,"kmph") """
 
 #Verifying operators
 #Arithematic operators
-a=int(input())
+"""a=int(input())
 b=int(input())
 print(a+b)
 print(a-b)
